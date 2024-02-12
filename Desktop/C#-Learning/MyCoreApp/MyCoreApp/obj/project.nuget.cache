@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Bf3fU5//uozHk56FFjJVedzhdi91Lgj3GVX72OturS7PNJqO/MyNrzja0xv7Q3NeUjghhPLK5Eh9hDLKCQdUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PDHULIPALLA\\Desktop\\C#-Learning\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://end-euws37.dmz.next-uk.next.loc:930/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://end-ipas62/NextDotNetCore/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://end-ipas62/Next/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://end-ipas62/ThirdParty/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://end-ipas62/ThirdPartyDotNetCore/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

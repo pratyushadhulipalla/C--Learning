@@ -1,0 +1,15 @@
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\bin\Debug\net6.0\classesAndObjects.exe
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\bin\Debug\net6.0\classesAndObjects.deps.json
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\bin\Debug\net6.0\classesAndObjects.runtimeconfig.json
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\bin\Debug\net6.0\classesAndObjects.dll
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\bin\Debug\net6.0\classesAndObjects.pdb
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\classesAndObjects.csproj.AssemblyReference.cache
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\classesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\classesAndObjects.AssemblyInfoInputs.cache
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\classesAndObjects.AssemblyInfo.cs
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\classesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\classesAndObjects.dll
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\refint\classesAndObjects.dll
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\classesAndObjects.pdb
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\classesAndObjects.genruntimeconfig.cache
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\classesAndObjects\obj\Debug\net6.0\ref\classesAndObjects.dll

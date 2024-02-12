@@ -1,0 +1,15 @@
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\bin\Debug\net6.0\BMICaliculator.exe
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\bin\Debug\net6.0\BMICaliculator.deps.json
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\bin\Debug\net6.0\BMICaliculator.runtimeconfig.json
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\bin\Debug\net6.0\BMICaliculator.dll
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\bin\Debug\net6.0\BMICaliculator.pdb
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\BMICaliculator.csproj.AssemblyReference.cache
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\BMICaliculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\BMICaliculator.AssemblyInfoInputs.cache
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\BMICaliculator.AssemblyInfo.cs
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\BMICaliculator.csproj.CoreCompileInputs.cache
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\BMICaliculator.dll
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\refint\BMICaliculator.dll
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\BMICaliculator.pdb
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\BMICaliculator.genruntimeconfig.cache
+C:\Users\PDHULIPALLA\Desktop\C#-Learning\BMICaliculator\obj\Debug\net6.0\ref\BMICaliculator.dll
